@@ -1,0 +1,26 @@
+body{
+    margin: 50px;
+}
+h1{
+    color: rgb(158, 92, 12);
+}
+#jokesbg{
+    background-color: rgb(231, 245, 245);
+    width: 500px;
+    height: 500px;
+    margin-top: 20px;;
+    border-radius: 5px;
+    border: 5px solid #6b6bf7;
+    text-align: center;
+}
+#jokesbutton{
+    width: 60px;
+    height: 30px;
+    background-color: coral;
+    border-radius: 5px;
+}
+#jokesbutton:hover{
+    color: white;
+    width: 65px;
+    height: 35px;
+}
